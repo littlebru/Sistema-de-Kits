@@ -1,4 +1,4 @@
-<h1 align="center">Sistema de Kits</h1>
+<img src="https://github.com/littlebru/Sistema-de-Kits/blob/master/images/Banner.png" alt="banner do projeto" title="Projeto POO">
 
 <p align="center">Sistema que utiliza o conceito da Programação Orientada à Objetos e Design Pattern</p>
 
